@@ -1,3 +1,9 @@
+## Quick start for CPS586 final project
+
+1. Download and save to `ChatGPT-personal-disclosures/task_annotations.csv` and `ChatGPT-personal-disclosures/processed_sensitive_info_annotations.csv` from google drive link below.
+2. Run `extract_models_for_hashes.py` to get `ChatGPT-personal-disclosures/conversation_hash_to_model.csv`
+3. Run `ChatGPT-personal-disclosures/wildchat_plots_by_model_CLEAN.ipynb`
+
 # ChatGPT-personal-disclosures
 
 Repository for the following COLM 2024 paper:
